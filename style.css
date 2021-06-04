@@ -362,6 +362,15 @@ a:hover {
     z-index: 2;
 }
 
+.h2 {
+    font-size: 1.5em;
+    font-style: italic;  
+    margin: 0 40px;  
+}
+.majuscule {text-transform: uppercase;}
+.paragraphe {font-size: 1em;}
+
+
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;
@@ -741,6 +750,7 @@ h4 {
 
 .portfolio-thumb {
     margin-bottom: 24px;
+    width: 100%;
 }
 
 .portfolio-row {
@@ -822,7 +832,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation.jpg");
 }
 
 @media (max-width: 1024px) {
