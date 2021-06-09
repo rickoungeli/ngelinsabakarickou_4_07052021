@@ -772,10 +772,6 @@ h4 {
     background-color: #fff;
 }
 
-.bgc-dark-slate-blue {
-    background-color: #364577;
-}
-
 .bgc-atomic-tangerine {
     background-color: #F3976C;
 }
@@ -813,7 +809,7 @@ h4 {
 
 .icon-dark-slate-blue {
     color: rgba(0, 0, 0, .8)!important;
-    border-color: #364577!important;
+    border-color: #adb1bb!important;
 }
 
 .bg-dots-bg {
