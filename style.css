@@ -1,8 +1,6 @@
 body {
     margin: 0;
     padding: 0;
-    background: #FFF;
-
 }
 
 a,
@@ -771,7 +769,7 @@ h4 {
 }
 
 .bgc-white {
-    background-color: #161515;
+    background-color: #fff;
 }
 
 .bgc-dark-slate-blue {
@@ -798,7 +796,7 @@ h4 {
 }
 
 .ltc-white {
-    color: #FFFFFF!important;
+    color: #000!important;
 }
 
 .ltc-white:hover {
